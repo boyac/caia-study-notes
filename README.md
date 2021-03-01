@@ -1,1 +1,1 @@
-# caia_study_notes
+# caia-study-notes
