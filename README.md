@@ -1,7 +1,7 @@
 # caia-study-notes
 
 
-Created notes for the Chartered Alternative Inveatment Analyst (CAIA) exam.
+Created notes for the Chartered Alternative Investment Analyst (CAIA) exam.
 
 Note: First version. May contain inaccuracies.
 
